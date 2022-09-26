@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.ee7a96b7.css",
-    "main.js": "/react-deploy/static/js/main.7b889272.js",
-    "static/js/787.26f70c15.chunk.js": "/react-deploy/static/js/787.26f70c15.chunk.js",
-    "static/media/img-9-1.jpg": "/react-deploy/static/media/img-9-1.99c83f848f886fbadab0.jpg",
-    "static/media/logo.svg": "/react-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-deploy/index.html",
-    "main.ee7a96b7.css.map": "/react-deploy/static/css/main.ee7a96b7.css.map",
-    "main.7b889272.js.map": "/react-deploy/static/js/main.7b889272.js.map",
-    "787.26f70c15.chunk.js.map": "/react-deploy/static/js/787.26f70c15.chunk.js.map"
+    "main.css": "http://Tommy-Pickles.github.io/react-deploy/static/css/main.ee7a96b7.css",
+    "main.js": "http://Tommy-Pickles.github.io/react-deploy/static/js/main.1a2f4fc2.js",
+    "static/js/787.26f70c15.chunk.js": "http://Tommy-Pickles.github.io/react-deploy/static/js/787.26f70c15.chunk.js",
+    "static/media/img-9-1.jpg": "http://Tommy-Pickles.github.io/react-deploy/static/media/img-9-1.99c83f848f886fbadab0.jpg",
+    "static/media/logo.svg": "http://Tommy-Pickles.github.io/react-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "http://Tommy-Pickles.github.io/react-deploy/index.html",
+    "main.ee7a96b7.css.map": "http://Tommy-Pickles.github.io/react-deploy/static/css/main.ee7a96b7.css.map",
+    "main.1a2f4fc2.js.map": "http://Tommy-Pickles.github.io/react-deploy/static/js/main.1a2f4fc2.js.map",
+    "787.26f70c15.chunk.js.map": "http://Tommy-Pickles.github.io/react-deploy/static/js/787.26f70c15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee7a96b7.css",
-    "static/js/main.7b889272.js"
+    "static/js/main.1a2f4fc2.js"
   ]
 }
